@@ -1,9 +1,9 @@
-## Desafio de Projeto sobre Git/GitHub da Dio
+## Desafio de Projeto sobre Git/GitHub da Dio 
 
 *Repositório criado para o Desafio de Projeto*
 
 
-*Aprendizados*
+## *Aprendizados* 📚
 
 1. Criar e usar um repositório
 
@@ -12,6 +12,8 @@
 3. Fazer alterações em um arquivo e enviá-los por push para GitHub AE como commits
 
 4. Abrir e realizar merge de um pull request
+
+5. Sintaxe básica de aplicação no Markdown
 
 
 

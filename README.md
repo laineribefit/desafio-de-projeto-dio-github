@@ -1,10 +1,9 @@
-## Desafio de Projeto sobre Git/GitHub da Dio 
+> ## Desafio de Projeto sobre Git/GitHub da Dio 
 
 *Repositório criado para o Desafio de Projeto*
 
 
-
-## *Aprendizados* 📚
+> ## *Aprendizados* 📚
 
 1. Criar e usar um repositório
 2. Iniciar e gerenciar um novo branch
@@ -13,8 +12,7 @@
 5. Sintaxe básica de aplicação no Markdown
 
 
-
-## *Links Úteis*
+> ## *Links Úteis* 
 
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 

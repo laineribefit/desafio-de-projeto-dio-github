@@ -3,21 +3,19 @@
 *Repositório criado para o Desafio de Projeto*
 
 
+
 ## *Aprendizados* 📚
 
 1. Criar e usar um repositório
-
 2. Iniciar e gerenciar um novo branch
-
 3. Fazer alterações em um arquivo e enviá-los por push para GitHub AE como commits
-
 4. Abrir e realizar merge de um pull request
-
 5. Sintaxe básica de aplicação no Markdown
 
 
 
-## Links Úteis
+## *Links Úteis*
+
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 [Dicas de Formatação no Markdown](https://support.zendesk.com/hc/pt-br/articles/4408846544922-Formata%C3%A7%C3%A3o-de-texto-com-Markdown)
